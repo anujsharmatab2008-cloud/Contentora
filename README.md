@@ -1,7 +1,6 @@
 <a href="https://contentora.ai.studio">
-  <img src=""https://github.com/user-attachments/assets/08c5a852-f4f8-409f-931b-1074cb75a01c" alt="Contentora - Turn Your Ideas Into Content" width="100%">
+  <img src="https://github.com/user-attachments/assets/08c5a852-f4f8-409f-931b-1074cb75a01c" alt="Contentora - Turn Your Ideas Into Content" width="100%">
 </a>
-
 
 
 <div align="center">
