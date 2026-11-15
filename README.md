@@ -2,6 +2,14 @@
   <img src="PASTE_YOUR_GITHUB_BANNER_IMAGE_URL_HERE" alt="Contentora - Turn Your Ideas Into Content" width="100%">
 </a>
 
+
+
+<div align="center">
+  <h1>Contentora</h1>
+  <h3>An AI-powered creative studio that transforms a single topic into a complete, ready-to-publish content package—uniting ideation, scripting, visuals, audio, and SEO in one workspace.</h3>
+</div>
+
+
 ## 🖥️ Project Screenshots
 
 ### 🏠 1. Homepage
