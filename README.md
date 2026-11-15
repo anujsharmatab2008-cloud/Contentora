@@ -15,8 +15,7 @@
 ## 🖥️ Project Screenshots
 
 ### 🏠 1. Homepage
-<img width="1904" height="914" alt="Screenshot_15-11-2026_184237_contentora ai studio" src="https://github.com/user-attachments/assets/bddad1e4-3f00-412a-9fd0-94960d7ef5be" />
-
+<img width="2021" height="499" alt="ef175f61-0e4f-4b45-b7b6-566a662ca8c2 (1)" src="https://github.com/user-attachments/assets/e422c8d5-21db-4549-923f-ec4ae251f10b" />
 
 
 ### 📂 2. Project Workspace
