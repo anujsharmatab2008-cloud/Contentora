@@ -420,6 +420,6 @@ This project is developed as a college hackathon prototype. All external AI mode
 
 **[⬆ Back to Top](#contentora)**
 
-Made with ❤️ by the Contentora Team
+Made with Contentora Team
 
 </div>
