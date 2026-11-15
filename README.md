@@ -1,298 +1,425 @@
 <a href="https://contentora.ai.studio">
-  <img src="https://github.com/user-attachments/assets/08c5a852-f4f8-409f-931b-1074cb75a01c" alt="Contentora - Turn Your Ideas Into Content" width="100%">
+  <img src="https://github.com/user-attachments/assets/08c5a852-f4f8-409f-931b-1074cb75a01c" alt="Contentora — Turn Your Ideas Into Content" width="100%">
 </a>
 
-
 <div align="center">
-  <h1>Contentora</h1>
-  <p>
-    <strong>An AI-powered creative studio that transforms a single topic into a complete, ready-to-publish content package—uniting ideation, scripting, visuals, audio, and SEO in one workspace.</strong>
-  </p>
+
+# Contentora
+
+**An AI-powered creative studio that transforms a single topic into a complete, ready-to-publish content package — uniting ideation, scripting, visuals, audio, and SEO in one workspace.**
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-contentora.ai.studio-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://contentora.ai.studio)
+[![Project Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](https://github.com/anujrepox/contentora)
+[![Project Type](https://img.shields.io/badge/Type-Hackathon%20Prototype-blue?style=for-the-badge)](https://github.com/anujrepox/contentora)
+
 </div>
 
+---
 
+## 📋 Table of Contents
+
+| # | Section | # | Section |
+|:-:|---------|:-:|---------|
+| 1 | [Overview](#-overview) | 8 | [Project Workspace](#-project-workspace) |
+| 2 | [Project Screenshots](#-project-screenshots) | 9 | [Storyboard & Scene Planning](#-storyboard--scene-planning) |
+| 3 | [About the Project](#-about-the-project) | 10 | [Thumbnail & Packaging](#-thumbnail--packaging) |
+| 4 | [Key Features](#-key-features) | 11 | [Voice & Audio Production](#-voice--audio-production) |
+| 5 | [AI-Powered Content Generation](#-ai-powered-content-generation) | 12 | [YouTube SEO & Publishing](#-youtube-seo--publishing-support) |
+| 6 | [Content Creation Tools](#-content-creation-tools) | 13 | [Creator Analytics](#-creator-analytics) |
+| 7 | [Additional Features](#-additional-features) | 14 | [Target Audience](#-target-audience) |
+| 15 | [Technology Stack](#-technology-stack) | 20 | [Future Scope](#-future-scope) |
+| 16 | [Getting Started](#-getting-started) | 21 | [Security](#-security) |
+| 17 | [Environment Variables](#-environment-variables) | 22 | [Team](#-team) |
+| 18 | [Project Status](#-project-status) | 23 | [Our Vision](#-our-vision) |
+| 19 | [Project Structure](#-project-structure) | 24 | [License & Attribution](#-license--attribution) |
+
+---
+
+## 🚀 Overview
+
+> **One Idea. One Workspace. A Complete Content Creation Journey.**
+
+Contentora is an AI-powered creative studio designed to simplify and organise the content creation process. It brings every stage of digital content production — from generating ideas and writing scripts to preparing thumbnails, audio, SEO details, and publishing materials — into **one unified workspace**.
+
+Whether you are a YouTuber, social media creator, student, beginner, or small business owner, Contentora helps you transform a simple topic into a structured, production-ready content package.
+
+---
 
 ## 🖥️ Project Screenshots
 
-### 🏠 1. Homepage
-<img width="1909" height="914" alt="Screenshot_15-11-2026_20525_contentora ai studio" src="https://github.com/user-attachments/assets/30a93cc5-411a-400b-85e8-77e4a58a9c5c" />
-
-
-### 📂 2. Project Workspace
-<img width="1900" height="914" alt="Screenshot_15-11-2026_18297_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/ce02d03b-af38-4e34-a23f-84a8fe513f8d" />
-
-
-### 🎬 3. Script & Scenes
-<img width="1901" height="914" alt="Screenshot_15-11-2026_182927_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/617fbe3e-eb4f-4010-8200-047f67bac392" />
-
-
-
-🚀 CONTENTORA
-
-AI-Powered YouTube & Social Media Content Production Platform
-
-Turn Your Ideas Into Content.
-
-🚀 "Explore Contentora – Live Website" (https://contentora.ai.studio)
-
-Contentora is an AI-powered creative studio designed to simplify and organise the content creation process. It brings different stages of digital content production—from generating ideas and writing scripts to preparing thumbnails, audio, SEO details, and publishing materials—into one workspace.
-
-Whether you are a YouTuber, social media creator, student, beginner, or small business owner, Contentora aims to help you transform a simple topic into a structured content package.
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>🏠 Homepage</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/30a93cc5-411a-400b-85e8-77e4a58a9c5c" alt="Contentora Homepage" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <strong>📂 Project Workspace</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/ce02d03b-af38-4e34-a23f-84a8fe513f8d" alt="Contentora Project Workspace" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>🎬 Script & Scenes</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/617fbe3e-eb4f-4010-8200-047f67bac392" alt="Contentora Script & Scenes" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-📌 About the Project
+## 📌 About the Project
 
-Creating digital content involves several steps, including planning, scripting, designing visuals, preparing voiceovers, writing descriptions, and optimising content for different platforms.
+Creating digital content involves several steps — planning, scripting, designing visuals, preparing voiceovers, writing descriptions, and optimising content for different platforms. Contentora brings these tasks together in one place.
 
-Contentora aims to bring these tasks together in one place.
+| Step | What the User Does | What Contentora Does |
+|:----:|--------------------|----------------------|
+| 1 | Enters a topic or video idea | Captures the creative brief |
+| 2 | Selects language, style, scene count, video format | Configures generation parameters |
+| 3 | Chooses an available AI model option | Routes to the appropriate generation pipeline |
+| 4 | — | Organises output into a dedicated production workspace |
 
-Users can enter a topic or video idea, select their preferred language, writing style, number of scenes, video format, and available AI model option. The platform then organises the content into a dedicated production workspace.
-
-Instead of switching between multiple tools for every task, creators can manage different parts of their content workflow through a single platform.
-
----
-
-✨ Key Features
-
-1. 🤖 AI-Powered Content Generation
-
-- Generate structured content from a topic or prompt.
-- Choose from available language options, including English, Hindi, Spanish, and French.
-- Select different content styles, such as Engaging & Clear, Cinematic & Dynamic, Dramatic, Fast-Paced & Punchy, and Educational & Calm.
-- Choose the number of scenes for a video.
-- Access available AI model and generation options.
-
-2. 📝 Content Creation Tools
-
-Contentora includes dedicated tools for different content requirements:
-
-- Title: Create engaging content titles.
-- Description: Prepare video descriptions.
-- Tags: Generate relevant SEO tags.
-- Thumbnail: Create and customise thumbnail concepts.
-- Photo Prompt: Prepare prompts for image generation.
-- Video Prompt: Prepare video-related prompts.
-- Audio Prompt: Prepare audio and sound-related prompts.
-
-3. 📂 Project Workspace
-
-Each generated project has an organised workspace with different sections:
-
-- Overview: View the project's main information, title, thumbnail, and production progress.
-- Packaging: Access thumbnail concepts, image prompts, editing options, and downloads.
-- Script & Scenes: View individual scenes, narration scripts, and visual shot descriptions.
-- Voice & Audio: Access voiceover text, voice options, audio settings, and text-to-speech controls.
-- YouTube SEO: Prepare descriptions, chapter timestamps, pinned comments, and community posts.
-- Publish: Review publishing requirements and prepare content for distribution.
-
-4. 🎬 Storyboard & Scene Planning
-
-- Organise videos into individual scenes.
-- View scene titles, narration, and visual shot directions.
-- Preview the storyboard.
-- Access teleprompter support.
-- Export subtitles in SRT format and shot lists in CSV format.
-
-5. 🎨 Thumbnail & Packaging
-
-- View thumbnail concepts.
-- Upload or edit thumbnail images.
-- Access image prompts and negative prompts.
-- Download thumbnails in PNG format.
-- Check thumbnail readability and title presentation.
-
-6. 🎙️ Voice & Audio Production
-
-- Access scene-wise voiceover scripts.
-- Choose from available voice and text-to-speech options.
-- View sound and music descriptions.
-- Use teleprompter support for narration.
-- Access audio generation through the available integrations.
-
-7. 📈 YouTube SEO & Publishing Support
-
-Contentora helps prepare important publishing materials, including:
-
-- Video descriptions.
-- Chapter timestamps.
-- SEO tags and hashtags.
-- Pinned comments.
-- Community posts.
-- Opening hooks and engagement assets.
-
-The publishing section also includes an upload-readiness checklist, a production package download option, and a YouTube upload sheet.
-
-8. 📊 Creator Analytics
-
-The Analytics dashboard provides an overview of content production activity, including:
-
-- Total generated content.
-- Daily activity streak.
-- Total projects.
-- Scripted scenes.
-- Project status tracking.
-- Daily activity history.
-
-9. 🌟 Additional Features
-
-- Community section.
-- Project history.
-- Light and dark themes.
-- YouTube connection option.
-- Convert content into Shorts.
-- Export and production package options.
-- Cross-platform promotional content support.
+Instead of switching between multiple tools for every task, creators manage their entire content workflow through a **single platform**.
 
 ---
 
-🖥️ Screenshots
+## ✨ Key Features
 
-Screenshots of the main interface and workspace will be added here to demonstrate the platform.
-
-Homepage| Project Workspace
-"screenshots/homepage.png"| "screenshots/project-workspace.png"
-
-Script & Scenes
-"screenshots/script-scenes.png"
+<table>
+  <tr>
+    <th width="25%">Category</th>
+    <th width="75%">Capabilities</th>
+  </tr>
+  <tr>
+    <td>🤖 <strong>AI Content Generation</strong></td>
+    <td>Structured content from topics/prompts · Multi-language (English, Hindi, Spanish, French) · Multiple content styles · Configurable scene count · Model selection</td>
+  </tr>
+  <tr>
+    <td>📝 <strong>Creation Tools</strong></td>
+    <td>Title · Description · Tags · Thumbnail · Photo Prompt · Video Prompt · Audio Prompt</td>
+  </tr>
+  <tr>
+    <td>📂 <strong>Project Workspace</strong></td>
+    <td>Overview · Packaging · Script & Scenes · Voice & Audio · YouTube SEO · Publish</td>
+  </tr>
+  <tr>
+    <td>🎬 <strong>Storyboard & Scenes</strong></td>
+    <td>Scene organisation · Narration & shot directions · Storyboard preview · Teleprompter · SRT & CSV export</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Thumbnail & Packaging</strong></td>
+    <td>Thumbnail concepts · Upload/edit images · Image & negative prompts · PNG download · Readability checks</td>
+  </tr>
+  <tr>
+    <td>🎙️ <strong>Voice & Audio</strong></td>
+    <td>Scene-wise voiceover scripts · Voice & TTS options · Sound/music descriptions · Teleprompter · Audio integrations</td>
+  </tr>
+  <tr>
+    <td>📈 <strong>SEO & Publishing</strong></td>
+    <td>Descriptions · Chapter timestamps · Tags & hashtags · Pinned comments · Community posts · Hooks · Upload checklist</td>
+  </tr>
+  <tr>
+    <td>📊 <strong>Creator Analytics</strong></td>
+    <td>Total content · Daily streak · Projects · Scripted scenes · Status tracking · Activity history</td>
+  </tr>
+  <tr>
+    <td>🌟 <strong>Additional</strong></td>
+    <td>Community · Project history · Light/dark themes · YouTube connection · Shorts conversion · Export packages · Cross-platform support</td>
+  </tr>
+</table>
 
 ---
 
-🎯 Target Audience
+## 🤖 AI-Powered Content Generation
 
-Contentora is designed for:
-
-- YouTubers and video creators.
-- Instagram and social media creators.
-- Beginner content creators.
-- Students and aspiring creators.
-- Small businesses and digital marketers.
-
----
-
-🛠️ Technology Stack
-
-Area| Technologies
-Frontend| HTML, CSS, JavaScript
-Backend| Node.js, Express.js
-AI Integrations| External AI models and APIs
-Content Support| Image generation and text-to-speech integrations
+| Option | Available Values |
+|--------|------------------|
+| **Languages** | English · Hindi · Spanish · French |
+| **Content Styles** | Engaging & Clear · Cinematic & Dynamic · Dramatic · Fast-Paced & Punchy · Educational & Calm |
+| **Scene Count** | User-configurable per project |
+| **AI Models** | Available model and generation options selectable at creation time |
+| **Input** | A single topic or prompt |
 
 ---
 
-⚙️ Getting Started
+## 📝 Content Creation Tools
 
-Follow these steps to run the project locally.
+| Tool | Purpose |
+|------|---------|
+| 🏷️ **Title** | Create engaging content titles |
+| 📄 **Description** | Prepare video descriptions |
+| 🔖 **Tags** | Generate relevant SEO tags |
+| 🖼️ **Thumbnail** | Create and customise thumbnail concepts |
+| 📸 **Photo Prompt** | Prepare prompts for image generation |
+| 🎥 **Video Prompt** | Prepare video-related prompts |
+| 🔊 **Audio Prompt** | Prepare audio and sound-related prompts |
 
-Prerequisites
+---
 
-- Node.js
-- npm
-- A code editor such as Visual Studio Code
+## 📂 Project Workspace
 
-Installation
+Every generated project gets an organised workspace with six dedicated sections:
 
-1. Clone the repository
+```
+Project Workspace
+├── 📊 Overview          → Main info, title, thumbnail, production progress
+├── 📦 Packaging         → Thumbnail concepts, image prompts, editing, downloads
+├── 🎬 Script & Scenes   → Individual scenes, narration, visual shot descriptions
+├── 🎙️ Voice & Audio     → Voiceover text, voice options, audio settings, TTS controls
+├── 📈 YouTube SEO       → Descriptions, chapters, pinned comments, community posts
+└── 🚀 Publish           → Publishing requirements and distribution preparation
+```
 
+---
+
+## 🎬 Storyboard & Scene Planning
+
+| Feature | Description |
+|---------|-------------|
+| 🎞️ Scene Organisation | Break videos into individual scenes |
+| 📖 Scene Details | View scene titles, narration, and visual shot directions |
+| 👁️ Storyboard Preview | Preview the full storyboard |
+| 📜 Teleprompter | Support for narration delivery |
+| 💾 Subtitle Export | Export subtitles in **SRT** format |
+| 📋 Shot List Export | Export shot lists in **CSV** format |
+
+---
+
+## 🎨 Thumbnail & Packaging
+
+- 🖼️ View thumbnail concepts
+- ✏️ Upload or edit thumbnail images
+- 🧠 Access image prompts and negative prompts
+- ⬇️ Download thumbnails in **PNG** format
+- 👁️ Check thumbnail readability and title presentation
+
+---
+
+## 🎙️ Voice & Audio Production
+
+- 🎬 Scene-wise voiceover scripts
+- 🗣️ Available voice and text-to-speech options
+- 🎵 Sound and music descriptions
+- 📜 Teleprompter support for narration
+- 🔌 Audio generation through available integrations
+
+---
+
+## 📈 YouTube SEO & Publishing Support
+
+| Asset | Included |
+|-------|:--------:|
+| Video descriptions | ✅ |
+| Chapter timestamps | ✅ |
+| SEO tags & hashtags | ✅ |
+| Pinned comments | ✅ |
+| Community posts | ✅ |
+| Opening hooks & engagement assets | ✅ |
+| Upload-readiness checklist | ✅ |
+| Production package download | ✅ |
+| YouTube upload sheet | ✅ |
+
+---
+
+## 📊 Creator Analytics
+
+The Analytics dashboard provides an overview of content production activity:
+
+| Metric | Description |
+|--------|-------------|
+| 📦 Total Generated Content | All content produced across projects |
+| 🔥 Daily Activity Streak | Consecutive days of creation activity |
+| 📁 Total Projects | Number of projects created |
+| 🎬 Scripted Scenes | Total scenes scripted |
+| 📌 Project Status Tracking | Progress state of each project |
+| 📅 Daily Activity History | Day-by-day production log |
+
+---
+
+## 🌟 Additional Features
+
+- 👥 Community section
+- 🕘 Project history
+- 🌗 Light and dark themes
+- 🔗 YouTube connection option
+- ✂️ Convert content into Shorts
+- 📦 Export and production package options
+- 🌐 Cross-platform promotional content support
+
+---
+
+## 🎯 Target Audience
+
+| Audience | Use Case |
+|----------|----------|
+| 🎥 YouTubers & Video Creators | End-to-end video production planning |
+| 📱 Instagram & Social Media Creators | Multi-platform content packaging |
+| 🌱 Beginner Content Creators | Guided, structured creation workflow |
+| 🎓 Students & Aspiring Creators | Learning content production step by step |
+| 💼 Small Businesses & Digital Marketers | Efficient promotional content at scale |
+
+---
+
+## 🛠️ Technology Stack
+
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | HTML · CSS · JavaScript |
+| **Backend** | Node.js · Express.js |
+| **AI Integrations** | External AI models and APIs |
+| **Content Support** | Image generation and text-to-speech integrations |
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+| Requirement | Notes |
+|-------------|-------|
+| Node.js | Required runtime |
+| npm | Package manager |
+| Code Editor | e.g., Visual Studio Code |
+
+### Installation
+
+```bash
+# 1. Clone the repository
 git clone https://github.com/anujrepox/contentora.git
 
-2. Navigate to the project directory
-
+# 2. Navigate to the project directory
 cd contentora
 
-3. Navigate to the Frontend folder
-
+# 3. Navigate to the Frontend folder
 cd Frontend
 
-4. Install dependencies
-
+# 4. Install dependencies
 npm install
 
-5. Configure environment variables
+# 5. Configure environment variables (see below)
+#    Create a .env file inside the Frontend folder
 
-Create a ".env" file inside the "Frontend" folder and add the required API credentials using the variable names expected by the application.
-
-6. Start the server
-
+# 6. Start the server
 node server.js
+```
 
-7. Open the application
+### Open the Application
 
-Visit:
-
+```
 http://localhost:5000/idea.html
+```
 
 ---
 
-📌 Project Status
+## 🔑 Environment Variables
 
-Contentora is currently under development as a working prototype for a college hackathon.
+Create a `.env` file inside the `Frontend` folder and add the required API credentials using the variable names expected by the application.
 
-The project includes its main interface, content creation workflow, project workspace, scene planning, thumbnail and packaging tools, analytics dashboard, and publishing support.
+| Variable | Purpose |
+|----------|---------|
+| `AI_API_KEY` | API key for the AI content generation provider |
+| `IMAGE_API_KEY` | API key for image generation services |
+| `TTS_API_KEY` | API key for text-to-speech services |
 
-Some advanced features and external API integrations, including AI content generation, scene-specific image generation, and text-to-speech, are still being tested and improved.
+> ⚠️ **Note:** Variable names shown are illustrative. Use the exact variable names expected by the application.
+
+---
+
+## 📌 Project Status
+
+> **Contentora is currently under development as a working prototype for a college hackathon.**
+
+| Component | Status |
+|-----------|:------:|
+| Main interface | ✅ Complete |
+| Content creation workflow | ✅ Complete |
+| Project workspace | ✅ Complete |
+| Scene planning | ✅ Complete |
+| Thumbnail & packaging tools | ✅ Complete |
+| Analytics dashboard | ✅ Complete |
+| Publishing support | ✅ Complete |
+| AI content generation | 🧪 Testing & improving |
+| Scene-specific image generation | 🧪 Testing & improving |
+| Text-to-speech | 🧪 Testing & improving |
 
 Our goal is to make the platform more reliable and enhance the overall content creation experience.
 
 ---
 
-🔮 Future Scope
+## 📁 Project Structure
 
-We aim to improve Contentora further by adding:
-
-- More reliable AI-powered content generation.
-- Improved scene-specific image generation.
-- More stable voiceover and audio generation.
-- Enhanced YouTube integration.
-- Advanced analytics and publishing support.
-- Improved export and cross-platform content workflows.
-
----
-
-🔐 Security
-
-API credentials and private configuration files should always be stored securely using environment variables.
-
-Never upload API keys, passwords, or ".env" files to a public GitHub repository.
+```
+contentora/
+├── Frontend/
+│   ├── public/                  # Static assets & pages
+│   │   └── idea.html            # Entry point (http://localhost:5000/idea.html)
+│   ├── server.js                # Express server entry
+│   ├── package.json             # Dependencies & scripts
+│   └── .env                     # API credentials (never commit)
+└── README.md
+```
 
 ---
 
-👥 Team
+## 🔮 Future Scope
 
-- Project Name: Contentora
-- Project Type: AI-Powered Content Production Platform
-- Developed As: College Hackathon Project
+| Priority | Improvement |
+|:--------:|-------------|
+| 🔴 High | More reliable AI-powered content generation |
+| 🔴 High | Improved scene-specific image generation |
+| 🟠 Medium | More stable voiceover and audio generation |
+| 🟠 Medium | Enhanced YouTube integration |
+| 🟡 Low | Advanced analytics and publishing support |
+| 🟡 Low | Improved export and cross-platform content workflows |
 
 ---
 
-💡 Our Vision
+## 🔐 Security
 
-One Idea. One Workspace. A Complete Content Creation Journey.
+> **⚠️ Important:** API credentials and private configuration files should always be stored securely using environment variables.
 
-Contentora aims to make digital content creation more organised, accessible, and efficient.
+| Rule | Description |
+|------|-------------|
+| ✅ Do | Store keys in `.env` files |
+| ✅ Do | Add `.env` to `.gitignore` |
+| ❌ Don't | Upload API keys, passwords, or `.env` files to a public GitHub repository |
+| ❌ Don't | Hardcode credentials in source files |
 
+---
 
+## 👥 Team
 
+| Attribute | Detail |
+|-----------|--------|
+| **Project Name** | Contentora |
+| **Project Type** | AI-Powered Content Production Platform |
+| **Developed As** | College Hackathon Project |
+| **Repository** | [github.com/anujrepox/contentora](https://github.com/anujrepox/contentora) |
 
+---
 
+## 💡 Our Vision
 
+<div align="center">
 
+> ### One Idea. One Workspace. A Complete Content Creation Journey.
 
+*Contentora aims to make digital content creation more organised, accessible, and efficient.*
 
+</div>
 
+---
 
+## 📄 License & Attribution
 
+This project is developed as a college hackathon prototype. All external AI models, APIs, and third-party services remain subject to their respective licenses and terms of service.
 
+---
 
+<div align="center">
 
+**[⬆ Back to Top](#contentora)**
 
+Made with ❤️ by the Contentora Team
 
-
-
-
-
-
-
-
-
-
+</div>
