@@ -54,6 +54,7 @@ import { ToolsStudio } from "./components/ToolsStudio.tsx";
 import { AnalyticsView } from "./components/AnalyticsView.tsx";
 import { SiteDemoModal } from "./components/SiteDemoModal.tsx";
 import { KitBuildingProgress } from "./components/KitBuildingProgress.tsx";
+import { HeroCharacterShowcase } from "./components/HeroCharacterShowcase.tsx";
 import {
   buildShotListCsv,
   buildSrtExport,
@@ -1384,20 +1385,14 @@ export default function App() {
                   </div>
                 </div>
 
-                {/* Right Hero Character Visual (User Uploaded Cutout) */}
+                {/* Right Hero Character Visual with Glossy Floating Platform Cards */}
                 <div className="hidden lg:flex lg:col-span-5 items-center justify-center relative h-full min-h-0">
-                  <div className="relative flex items-center justify-center h-full max-h-[calc(100vh-10.5rem)]">
-                    <div
-                      aria-hidden="true"
-                      className="absolute inset-x-4 inset-y-8 rounded-full bg-[#FF006E]/30 blur-3xl pointer-events-none"
-                    />
-                    <img
-                      src="/assets/aistudio/anime-boy-full_852c18f5.png"
-                      alt="Contentora creator mascot"
-                      referrerPolicy="no-referrer"
-                      className="relative h-full max-h-[500px] w-auto object-contain select-none drop-shadow-[0_0_32px_rgba(255,0,110,0.35)]"
-                    />
-                  </div>
+                  <HeroCharacterShowcase
+                    onSelectPlatform={(chosenFormat) => {
+                      setFormat(chosenFormat);
+                      openCreateStudio();
+                    }}
+                  />
                 </div>
               </div>
 
