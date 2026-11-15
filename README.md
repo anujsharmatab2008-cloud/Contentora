@@ -1,3 +1,19 @@
+## 🖥️ Project Screenshots
+
+### 🏠 1. Homepage
+<img width="1904" height="914" alt="Screenshot_15-11-2026_184237_contentora ai studio" src="https://github.com/user-attachments/assets/bddad1e4-3f00-412a-9fd0-94960d7ef5be" />
+
+
+
+### 📂 2. Project Workspace
+<img width="1900" height="914" alt="Screenshot_15-11-2026_18297_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/ce02d03b-af38-4e34-a23f-84a8fe513f8d" />
+
+
+### 🎬 3. Script & Scenes
+<img width="1901" height="914" alt="Screenshot_15-11-2026_182927_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/617fbe3e-eb4f-4010-8200-047f67bac392" />
+
+
+
 🚀 CONTENTORA
 
 AI-Powered YouTube & Social Media Content Production Platform
@@ -240,20 +256,6 @@ One Idea. One Workspace. A Complete Content Creation Journey.
 
 Contentora aims to make digital content creation more organised, accessible, and efficient.
 
-
-## 🖥️ Project Screenshots
-
-### 🏠 1. Homepage
-<img width="1904" height="914" alt="Screenshot_15-11-2026_184237_contentora ai studio" src="https://github.com/user-attachments/assets/bddad1e4-3f00-412a-9fd0-94960d7ef5be" />
-
-
-
-### 📂 2. Project Workspace
-<img width="1900" height="914" alt="Screenshot_15-11-2026_18297_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/ce02d03b-af38-4e34-a23f-84a8fe513f8d" />
-
-
-### 🎬 3. Script & Scenes
-<img width="1901" height="914" alt="Screenshot_15-11-2026_182927_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/617fbe3e-eb4f-4010-8200-047f67bac392" />
 
 
 
