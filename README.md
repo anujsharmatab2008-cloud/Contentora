@@ -6,8 +6,11 @@
 
 <div align="center">
   <h1>Contentora</h1>
-  <h3>An AI-powered creative studio that transforms a single topic into a complete, ready-to-publish content package—uniting ideation, scripting, visuals, audio, and SEO in one workspace.</h3>
+  <p>
+    <strong>An AI-powered creative studio that transforms a single topic into a complete, ready-to-publish content package—uniting ideation, scripting, visuals, audio, and SEO in one workspace.</strong>
+  </p>
 </div>
+
 
 
 ## 🖥️ Project Screenshots
