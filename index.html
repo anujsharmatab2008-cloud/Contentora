@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contentora — YouTube & Instagram Video Studio</title>
+    <meta name="description" content="Contentora video creation studio for YouTube and Instagram Reels. Generate titles, descriptions, SEO tags, hashtags, thumbnails, scene storyboards, voiceover audio, and video prompts." />
+    <meta property="og:title" content="Contentora — YouTube & Instagram Video Studio" />
+    <meta property="og:description" content="Contentora video creation studio for YouTube and Instagram Reels. Generate titles, descriptions, SEO tags, hashtags, thumbnails, scene storyboards, voiceover audio, and video prompts." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Montserrat:wght@800;900&family=Orbitron:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet" />
+  </head>
+  <body class="bg-[#FAFAF9] dark:bg-[#09090B] text-zinc-900 dark:text-zinc-100">
+    <script>
+      (function () {
+        try {
+          var theme = localStorage.getItem('promptreel_theme_v1');
+          if (theme !== 'light') {
+            document.documentElement.classList.add('dark');
+          }
+        } catch (e) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

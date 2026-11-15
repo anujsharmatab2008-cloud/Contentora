@@ -1,0 +1,6 @@
+{
+  "name": "PromptReel",
+  "description": "Free-tier AI video production studio. Enter any video topic to generate titles, descriptions, tags, thumbnail artwork and prompts, scene scripts, playable voiceover audio, and video generation prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
