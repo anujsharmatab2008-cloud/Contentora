@@ -61,7 +61,7 @@ Whether you are a YouTuber, social media creator, student, beginner, or small bu
   <tr>
     <td colspan="2" align="center">
       <strong>🎬 Script & Scenes</strong><br><br>
-      <img src="https://github.com/user-attachments/assets/08c5a852-f4f8-409f-931b-1074cb75a01c" alt="Contentora Script & Scenes" width="100%">
+      <img src="https://raw.githubusercontent.com/anujsharmatab2008-cloud/Contentora/main/IMG-20261115-WA0093 (1).jpg" alt="Contentora Script & Scenes" width="100%">
     </td>
   </tr>
 </table>
