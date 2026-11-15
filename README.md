@@ -1,3 +1,6 @@
+<img width="2021" height="499" alt="ef175f61-0e4f-4b45-b7b6-566a662ca8c2 (1)" src="https://github.com/user-attachments/assets/ef9076de-39f9-40f6-9e3e-826a55f34230" />
+
+
 ## 🖥️ Project Screenshots
 
 ### 🏠 1. Homepage
