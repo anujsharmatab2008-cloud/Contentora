@@ -244,7 +244,8 @@ Contentora aims to make digital content creation more organised, accessible, and
 ## 🖥️ Project Screenshots
 
 ### 🏠 1. Homepage
-<img width="1910" height="914" alt="Screenshot_15-11-2026_182834_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/6c9f1958-7d9c-444b-88ce-727a61575af9" />
+<img width="1904" height="914" alt="Screenshot_15-11-2026_184237_contentora ai studio" src="https://github.com/user-attachments/assets/bddad1e4-3f00-412a-9fd0-94960d7ef5be" />
+
 
 
 ### 📂 2. Project Workspace
