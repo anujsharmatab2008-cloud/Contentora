@@ -51,17 +51,17 @@ Whether you are a YouTuber, social media creator, student, beginner, or small bu
   <tr>
     <td width="50%" align="center">
       <strong>🏠 Homepage</strong><br><br>
-      <img src="https://github.com/user-attachments/assets/30a93cc5-411a-400b-85e8-77e4a58a9c5c" alt="Contentora Homepage" width="100%">
+      <img src="https://github.com/user-attachments/assets/08c5a852-f4f8-409f-931b-1074cb75a01c" alt="Contentora Homepage" width="100%">
     </td>
     <td width="50%" align="center">
       <strong>📂 Project Workspace</strong><br><br>
-      <img src="https://github.com/user-attachments/assets/ce02d03b-af38-4e34-a23f-84a8fe513f8d" alt="Contentora Project Workspace" width="100%">
+      <img src="https://github.com/user-attachments/assets/08c5a852-f4f8-409f-931b-1074cb75a01c" alt="Contentora Project Workspace" width="100%">
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <strong>🎬 Script & Scenes</strong><br><br>
-      <img src="https://github.com/user-attachments/assets/617fbe3e-eb4f-4010-8200-047f67bac392" alt="Contentora Script & Scenes" width="100%">
+      <img src="https://github.com/user-attachments/assets/08c5a852-f4f8-409f-931b-1074cb75a01c" alt="Contentora Script & Scenes" width="100%">
     </td>
   </tr>
 </table>
