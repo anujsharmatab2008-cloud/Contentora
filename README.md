@@ -1,3 +1,16 @@
+
+
+
+
+<p align="center">
+  <a href="https://ai.studio" target="_blank">
+    <img src="./Screenshot_20261115-191435_Chrome~2.jpg" alt="Contentora Logo" width="500" />
+  </a>
+</p>
+
+
+
+
 ## 🖥️ Project Screenshots
 
 ### 🏠 1. Homepage
