@@ -239,3 +239,42 @@ Never upload API keys, passwords, or ".env" files to a public GitHub repository.
 One Idea. One Workspace. A Complete Content Creation Journey.
 
 Contentora aims to make digital content creation more organised, accessible, and efficient.
+
+
+## 🖥️ Project Screenshots
+
+### 🏠 1. Homepage
+<img width="1910" height="914" alt="Screenshot_15-11-2026_182834_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/6c9f1958-7d9c-444b-88ce-727a61575af9" />
+
+
+### 📂 2. Project Workspace
+<img width="1900" height="914" alt="Screenshot_15-11-2026_18297_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/ce02d03b-af38-4e34-a23f-84a8fe513f8d" />
+
+
+### 🎬 3. Script & Scenes
+<img width="1901" height="914" alt="Screenshot_15-11-2026_182927_promptreel-1 ai studio" src="https://github.com/user-attachments/assets/617fbe3e-eb4f-4010-8200-047f67bac392" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
